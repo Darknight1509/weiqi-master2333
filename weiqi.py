@@ -363,5 +363,3 @@ if __name__=='__main__':
 			app.destroy()
 		else:
 			break
-
-			tetst
